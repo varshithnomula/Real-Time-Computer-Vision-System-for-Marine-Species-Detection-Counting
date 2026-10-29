@@ -1,0 +1,10 @@
+# Local Python environments
+pi_depoly/env/
+
+# Local Gradio runtime files
+pi_depoly/.gradio/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
